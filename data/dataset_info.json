@@ -1,6 +1,6 @@
 {
-  "identity": {
-    "file_name": "identity.json"
+  "fin-tuningdataset01": {
+    "file_name": "fin-tuningdataset01"
   },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
